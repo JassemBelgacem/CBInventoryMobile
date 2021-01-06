@@ -1,0 +1,13 @@
+C:\CB\InventoryCB\InventoryCB\bin\Debug\InventoryDB.sdf
+C:\CB\InventoryCB\InventoryCB\bin\Debug\InventoryCB.exe
+C:\CB\InventoryCB\InventoryCB\bin\Debug\InventoryCB.pdb
+C:\CB\InventoryCB\InventoryCB\obj\Debug\ResolveAssemblyReference.cache
+C:\CB\InventoryCB\InventoryCB\obj\Debug\InventoryCB.ProductsEditViewDialog.resources
+C:\CB\InventoryCB\InventoryCB\obj\Debug\InventoryCB.ProductsSummaryViewDialog.resources
+C:\CB\InventoryCB\InventoryCB\obj\Debug\InventoryCB.Properties.Resources.resources
+C:\CB\InventoryCB\InventoryCB\obj\Debug\InventoryCB.View.ProductsList.resources
+C:\CB\InventoryCB\InventoryCB\obj\Debug\InventoryCB.csproj.GenerateResource.Cache
+C:\CB\InventoryCB\InventoryCB\obj\Debug\InventoryCB.exe
+C:\CB\InventoryCB\InventoryCB\obj\Debug\InventoryCB.pdb
+C:\CB\InventoryCB\InventoryCB\obj\Debug\InventoryCB.LoginForm.resources
+C:\CB\InventoryCB\InventoryCB\obj\Debug\InventoryCB.View.MainForm.resources

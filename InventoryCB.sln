@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryCB", "InventoryCB\InventoryCB.csproj", "{4DC7AD98-73BF-4088-9654-EC706743FF69}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "InventoryCAB", "InventoryCAB\InventoryCAB.vddproj", "{41F1431E-DE0B-479B-A9B1-157F95F50FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryTestProject", "InventoryTestProject\InventoryTestProject.csproj", "{8785A10A-A2A7-405B-B0C3-6633C849117A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{41F1431E-DE0B-479B-A9B1-157F95F50FEB} = {41F1431E-DE0B-479B-A9B1-157F95F50FEB}
+		{4DC7AD98-73BF-4088-9654-EC706743FF69} = {4DC7AD98-73BF-4088-9654-EC706743FF69}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{78C67653-1D23-41B8-834E-CB123E768E96}"
+	ProjectSection(SolutionItems) = preProject
+		InventoryCB.vsmdi = InventoryCB.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = InventoryCB.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC7AD98-73BF-4088-9654-EC706743FF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC7AD98-73BF-4088-9654-EC706743FF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC7AD98-73BF-4088-9654-EC706743FF69}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4DC7AD98-73BF-4088-9654-EC706743FF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC7AD98-73BF-4088-9654-EC706743FF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC7AD98-73BF-4088-9654-EC706743FF69}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{41F1431E-DE0B-479B-A9B1-157F95F50FEB}.Debug|Any CPU.ActiveCfg = Debug
+		{41F1431E-DE0B-479B-A9B1-157F95F50FEB}.Release|Any CPU.ActiveCfg = Release
+		{8785A10A-A2A7-405B-B0C3-6633C849117A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8785A10A-A2A7-405B-B0C3-6633C849117A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8785A10A-A2A7-405B-B0C3-6633C849117A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8785A10A-A2A7-405B-B0C3-6633C849117A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

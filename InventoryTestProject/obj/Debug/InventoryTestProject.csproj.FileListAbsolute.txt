@@ -1,0 +1,8 @@
+C:\CB\InventoryCB\InventoryTestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\CB\InventoryCB\InventoryTestProject\bin\Debug\InventoryDB.sdf
+C:\CB\InventoryCB\InventoryTestProject\bin\Debug\InventoryTestProject.dll
+C:\CB\InventoryCB\InventoryTestProject\bin\Debug\InventoryTestProject.pdb
+C:\CB\InventoryCB\InventoryTestProject\bin\Debug\InventoryCB.exe
+C:\CB\InventoryCB\InventoryTestProject\bin\Debug\InventoryCB.pdb
+C:\CB\InventoryCB\InventoryTestProject\obj\Debug\InventoryTestProject.dll
+C:\CB\InventoryCB\InventoryTestProject\obj\Debug\InventoryTestProject.pdb
